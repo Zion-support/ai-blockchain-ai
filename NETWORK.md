@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Blockchain AI
 
-**ai-blockchain-ai** is part of the Zion Tech Group app network (630+ apps).
+AI-powered blockchain analytics, smart contract auditing, and DeFi intelligence.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite)
 
-## Related apps
-- [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) — Crypto tracking and predictive insights
-- [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) — Cross-exchange crypto arbitrage
-- [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) — Data-driven charts and visualizations
-- [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) — Build data pipelines
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
