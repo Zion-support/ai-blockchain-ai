@@ -1,10 +1,11 @@
-# AI Blockchain AI
+# 🔗 Zion App Network
 
-AI-powered blockchain analytics, smart contract auditing, and DeFi intelligence.
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+**Related apps:** [ai-crypto-tracker](https://github.com/Zion-support/ai-crypto-tracker) · [ai-crypto-arbitrage](https://github.com/Zion-support/ai-crypto-arbitrage) · [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention)
